@@ -1,3 +1,6 @@
 [submodule "components/on9nmea"]
 	path = components/on9nmea
 	url = git@github.com:huming2207/on9nmea.git
+[submodule "components/oncal"]
+	path = components/oncal
+	url = git@github.com:huming2207/oncal.git
